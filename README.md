@@ -90,9 +90,8 @@ Curiosidade:   Sempre buscando um novo desafio para aprender
 <summary>🐍 <b>Contribution Snake</b></summary>
 <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Djhonatah/Djhonatah/output/github-contribution-grid-snake.svg" alt="snake" width="90%"/>
+  <img src="https://raw.githubusercontent.com/Djhonatah/Djhonatah/output/github-contribution-grid-snake-dark.svg" alt="snake" width="90%"/>
 </div>
-<sub>⚙️ Requer configurar a <a href="https://github.com/Platane/snk">GitHub Action do Platane/snk</a> no seu repositório de perfil para gerar essa imagem automaticamente.</sub>
 </details>
 
 <br>
